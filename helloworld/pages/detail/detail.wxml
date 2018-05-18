@@ -1,0 +1,5 @@
+<!--pages/detail/detail.wxml-->
+<text>pages/detail/detail.wxml
+</text>
+<text>接收到了重index页面传过来的结果：</text>
+<text>{{title1}}</text>

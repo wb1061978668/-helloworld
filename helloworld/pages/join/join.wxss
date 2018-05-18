@@ -1,0 +1,41 @@
+/* pages/join/join.wxss */
+page{
+  background-color: #f3f3f3;
+}
+.banner{
+  display: block;
+  width: 100%;
+  height: 340rpx;
+}
+.block{
+  margin-top: 10rpx;
+  background:#fff;
+}
+.block-title{
+  position: relative;
+  font-size: 34rpx;
+  line-height: 1.5;
+  color:#2e5386;
+  padding:10rpx 20rpx;
+  text-indent: 30rpx;
+}
+.block-title::after{
+  position:absolute;
+  left:20rpx;
+  top:10rpx;
+  content:"";
+  width:10rpx;
+  height:40rpx;
+  background-color: #2e5386;
+}
+.block-desc{
+  display: block;
+  color:#666;
+  line-height: 1.6;
+  font-size: 30rpx;
+
+  padding: 0rpx 30rpx;
+}
+.footer-tell{
+   margin-top: 10rpx;
+}

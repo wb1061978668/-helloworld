@@ -1,0 +1,19 @@
+<!--pages/join/join.wxml-->
+<!--<text>pages/join/join.wxml</text>-->
+<image class='banner' src='/img/about.jpg'></image>
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇</text>
+</view>
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇
+  打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇</text>
+</view>
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇打算阿斯顿阿斯蒂芬阿娇</text>
+</view>
+<view class='footer'>
+<button class="footer-tell" bindtap='tell'>电话咨询</button>
+</view>
